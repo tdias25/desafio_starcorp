@@ -28,6 +28,7 @@ for ($number=1; $number < 101 ; $number++) {
 	}
 
 	echo $output;
-	echo "\n";
+	// echo "\n";
+	echo "<br>";
 
 }
